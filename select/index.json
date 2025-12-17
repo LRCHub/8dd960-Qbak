@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ねむり姫",
+  "base_artist": "PompadollS",
+  "createdAt": "2025-12-17T12:37:34.796951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねむり姫",
+      "artist": "Lyrical Lily",
+      "has_synced": true,
+      "path": "select/01_ねむり姫_Lyrical_Lily.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねむり姫",
+      "artist": "PompadollS",
+      "has_synced": false,
+      "path": "select/pl_01_ねむり姫_PompadollS.txt"
+    }
+  ]
+}
